@@ -1,0 +1,14 @@
+#title {
+  background-color: #ff4c68;
+}
+.hero-title {
+  color: whitesmoke;
+  font-family: roboto;
+  font-size: 4rem;
+  font-weight: 800;
+  line-height: 1.5;
+}
+.title-image {
+  width: 60%;
+  transform: rotate(25deg);
+}
